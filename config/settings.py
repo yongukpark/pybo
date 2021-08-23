@@ -25,7 +25,7 @@ SECRET_KEY = '-l6hz2^hrp(*kt)aisd7!(#=*c1m@$4)lgkhtobxfnxl$p#l+e'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['54.180.223.133']
 
 # 로그인 성공후 이동하는 URL
 LOGIN_REDIRECT_URL = '/'
